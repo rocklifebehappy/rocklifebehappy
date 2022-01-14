@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurab86&label=Profile%20views&color=0e75b6&style=flat" alt="saurab86" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krnaryal&label=Profile%20views&color=0e75b6&style=flat" alt="krnaryal" /> </p>
 
 - 🌱 I’m currently learning **React and Node JS**
 
