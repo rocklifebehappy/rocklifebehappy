@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiran Aryal</h1>
-<h2 align="center">Associate Sofware Engineer at Leapfrog</h2>
+<h1 align="center">Hi 👋, I'm Kiran</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurab86&label=Profile%20views&color=0e75b6&style=flat" alt="saurab86" /> </p>
 
